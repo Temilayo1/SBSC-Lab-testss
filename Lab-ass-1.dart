@@ -1,7 +1,7 @@
 void main() {
-  int age = 0;
+  int num = 0;
 
-  switch (age) {
+  switch num {
     case 17:
       {
         print("Yes correct!! 17 is a prime number :)");
